@@ -1,8 +1,8 @@
-# Hailee portfolio webpage
+# Suman Kumar Choudhary's portfolio webpage
 
 A portfolio web site completely made in html css and js from ground up.
 
-#### Watch it live here - [hailee.netlify.app](https://hailee.netlify.app/)
+#### Watch it live here - (https://sumankumarchoudhary.github.io/PortFolio/)
 
 <br>
 
@@ -10,10 +10,10 @@ A portfolio web site completely made in html css and js from ground up.
 
 <br>
 
-### In dark mode
+### In PC SCREEN SIZE
 
-![In dark mode](./preview/hailee-dark.png)
+![In dark mode](./preview/Capture.jpg)
 
-### In light mode
+### In MOBILE SCREEN SIZE
 
-![In light mode](./preview/hailee-light.png)
+![In light mode](./preview/Capture2.jpg)
