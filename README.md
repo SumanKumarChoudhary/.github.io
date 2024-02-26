@@ -12,8 +12,8 @@ A portfolio web site completely made in html css and js from ground up.
 
 ### In PC SCREEN SIZE
 
-![In PC SCREEN](preview/Capture.jpg)
+![In PC SCREEN](preview/Capture.JPG)
 
 ### In MOBILE SCREEN SIZE
 
-![In PHONE SCREEN](preview/Capture2.jpg)
+![In PHONE SCREEN](preview/Capture2.JPG)
